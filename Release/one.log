@@ -1,0 +1,22 @@
+﻿  camera.cpp
+C:\Users\16577\Desktop\distrib\camera.cpp(187,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  curve.cpp
+C:\Users\16577\Desktop\distrib\curve.cpp(248,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  main.cpp
+C:\Users\16577\Desktop\distrib\main.cpp(221,36): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\16577\Desktop\distrib\main.cpp(222,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\16577\Desktop\distrib\main.cpp(251,48): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\16577\Desktop\distrib\main.cpp(252,48): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+  parse.cpp
+  surf.cpp
+C:\Users\16577\Desktop\distrib\surf.cpp(41,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Matrix2f.cpp
+  Matrix3f.cpp
+  Matrix4f.cpp
+  Quat4f.cpp
+  Vector2f.cpp
+  Vector3f.cpp
+  Vector4f.cpp
+  Generating Code...
+LINK : warning LNK4075: ignoring '/INCREMENTAL' due to '/OPT:ICF' specification
+  one.vcxproj -> C:\Users\16577\Desktop\distrib\Release\one.exe
